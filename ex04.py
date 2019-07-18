@@ -3,9 +3,6 @@
 """
 Created on Mon Nov 19 10:07:43 2018
 
-@author: oceancio
-
-Student ID: 4336416
 """
 
 import itertools
